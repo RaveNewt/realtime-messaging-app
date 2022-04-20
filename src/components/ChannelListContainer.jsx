@@ -33,7 +33,7 @@ const ChannelListContainer = () => {
         <div className="channel-list__list__wrapper">
             <CompanyHeader />
         </div>
-        <h1>hello</h1>
+      
     </>
   );
 }
