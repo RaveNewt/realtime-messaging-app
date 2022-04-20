@@ -36,7 +36,7 @@ const TeamChannelPreview = ({ channel, type }) => {
     >
       {type === 'team' ? <ChannelPreview /> : <DirectPreview />}
     </div>
-  )
+  );
 }
 
 export default TeamChannelPreview
