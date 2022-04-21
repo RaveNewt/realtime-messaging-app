@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Realtime Chat Project
+We make realtime chat messaging like discord. Users can send emoji, images, and gifts. This project is built using React, Nodejs. We use stream io API for realtime chat messaging.
+
+## Our Team
+- [RaveNewt](https://github.com/RaveNewt)
+- [SytheManic](https://github.com/Sythe007)
+- [Clise](https://github.com/CliseAI)
+
+## Backend
+This project has backend with express js [Backend Realtime Chat](https://github.com/RaveNewt/backend-realtime-chat)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
